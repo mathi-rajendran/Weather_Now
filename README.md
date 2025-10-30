@@ -1,1 +1,3 @@
 # Weather_Now
+
+Weather Now is a simple and responsive web application built using HTML, CSS, and JavaScript. It allows users to check real-time weather updates by entering any city name. The app fetches live data from the OpenWeatherMap API and displays key details such as temperature, humidity, wind speed, and weather conditions. Designed with a clean and modern interface, Weather Now provides an intuitive user experience across both desktop and mobile devices. This project demonstrates the integration of APIs, frontend design principles, and dynamic JavaScript functionality, making it ideal for beginners exploring web development and API-based applications.
